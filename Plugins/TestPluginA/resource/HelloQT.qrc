@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource prefix="/TestLib2">
+     <file>tab_close_icon-active.png</file>
+ </qresource>
+ </RCC>

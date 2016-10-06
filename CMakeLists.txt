@@ -8,6 +8,7 @@ set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/lib)
 # 子目录包含
 add_subdirectory(App)
 add_subdirectory(Modules)
+add_subdirectory(Plugins)
 
 
 
